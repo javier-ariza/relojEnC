@@ -6,4 +6,4 @@ Varias versiones de implementación. En las primeras versiones no se usa ni tecl
 
 Se debe usar un compilador cruzado para poder subirlo desde el IDE Eclipse a la Raspberry
 
-Uso de maquinas de estados (Mealy), librerias wiringPi, temporizadores, interrupciones, flags.. etc. 
+Uso de maquinas de estados (Mealy), librerias wiringPi, temporizadores, interrupciones, flags, FSM, BCM, GPIO... 
